@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="mingw.test" type="GradleKonanAppRunConfiguration" factoryName="Application" TARGET_TYPE="mingw_x64" TARGET="mingw" BINARY="test" WORKING_DIR="">
+    <method v="2">
+      <option name="com.jetbrains.konan.IdeaKonanBuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
